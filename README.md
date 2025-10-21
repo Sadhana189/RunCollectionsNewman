@@ -30,6 +30,8 @@ runCollections.js     → Main runner script <br />
 2. (Optional) Add test data files if any, in data folder
 3. (Optional) Add environment files if any, in environments folder
 4. Update order.json with the order in which you want your collections to execute
+5. Execute the command in Command Prompt
+   ```node runCollections.js```
 
 # 🤔 What is order.json?
 This file helps in determining the order in which you want your collection to run sequentially.
