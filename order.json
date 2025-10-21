@@ -1,0 +1,10 @@
+{
+  "order": [
+    "login1.postman_collection.json",
+    "TestDataCollection.postman_collection.json",
+    "TestDataCollection1.postman_collection.json",
+    "post.postman_collection.json",
+    "passData.postman_collection.json",
+    "passDataParam.postman_collection.json"
+  ]
+}
